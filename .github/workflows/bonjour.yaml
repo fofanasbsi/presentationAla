@@ -13,12 +13,14 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Hello world
-        run: echo "Hello world"
+      - name: M2 MIAGE
+        run: echo "Bonjour tout le monde"
         shell: bash
   goodbye:
     runs-on: ubuntu-latest
     steps:
-      - name: Goodbye world
-        run: echo "Goodbye world"
+      - name: Parcours DLIS
+        run: echo "Bonjour les délicieux"
         shell: bash
+
+
