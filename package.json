@@ -1,4 +1,12 @@
 {
+  "name": "présentation ALA",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "ng build --prod", 
+      "lint": "ng lint" 
+      },
+  "dependencies": {
+  },
   "devDependencies": {
     "puppeteer": "^22.0.0"
   }
