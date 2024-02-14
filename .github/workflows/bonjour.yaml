@@ -21,6 +21,6 @@ jobs:
     steps:
       - name: Parcours DLIS
         run: echo "Bonjour les délicieux"
-         shell: bash
+        shell: bash
 
 
